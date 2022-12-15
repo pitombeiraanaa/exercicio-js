@@ -1,3 +1,11 @@
+//Perguntar ao usuario qual a o nome e a idade dele
+
+//se o nome dele começar com J ou terminar com A deverá mostrar na tela
+//uma mensagem que o nome começa com J ou termina com A.
+
+//enquanto a idade dele for menor que 60 anos deverá acrescentar
+//de 2 em 2 a idade até ser maior ou igual a 60
+
 let nome = prompt('Digite seu nome: ')
 let idade = parseInt(prompt('Digite a sua idade: '))
 
